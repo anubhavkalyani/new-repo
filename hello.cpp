@@ -3,5 +3,8 @@ using namespace std;
 #define ll long long
 int main()
 {
+	ll n;
+	cin>>n;
+	cout<<n<<endl;
 	cout<<"anubhav kalyani\n";
 }
